@@ -1,0 +1,55 @@
+@charset "ISO-8859-1";
+
+#body_Admin_Edu, #body_Addschool {
+	background-image: url("images/bg_AdminEdu.jpg");
+	background-position: top;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+/*...logout bar...*/
+#logoutbar {
+	margin-right: 10px;
+}
+
+#logoutbar a {
+	display: inline-block;
+	font-family: serif;
+	font-size: 20px;
+	color: white;
+}
+
+#logoutbar a:hover {
+	background-color: #008080;
+}
+/*...................................*/
+#body_viewSchool, #body_viewMoreSchool, #body_AdminviewMoreSchool {
+	background-image: url("images/bg_viewSchool.jpg");
+	background-position: top;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+#body_viewSchool h3, #body_viewMoreSchool h3, #body_AdminviewMoreSchool h3
+	{
+	line-height: 60px;
+	font-size: 30px;
+	font-family: serif;
+	margin: 0;
+	margin-left: 15px;
+	color: white;
+	width: 40%;
+	text-align: left;
+	text-shadow: 2px 2px 5px;
+}
+
+/*...Add school...add college */
+#add_school h3 , #add_college h3 {
+	line-height: 60px;
+	font-size: 25px;
+	font-family: serif;
+	margin: 0;
+	margin-left: 15px;
+	color: white;
+	width: 40%;
+	text-align: left;
+}

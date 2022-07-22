@@ -1,0 +1,10 @@
+@charset "ISO-8859-1";
+
+#admin_homepage,#body_adminInbox,#body_AdminProfile {
+	background-image: url("images/bg_Adminhome.jpg");
+	background-position: top;
+	background-size: cover;
+	background-repeat: no-repeat;
+	
+	
+}
